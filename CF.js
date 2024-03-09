@@ -1,3 +1,5 @@
+alert("OK")
+
 const getLastTenDigits = (number) => {
   return number.toString().slice(-10);
 };
